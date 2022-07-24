@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tan Loc Le</h1>
 <h3 align="center">A passionate student from Vietnam</h3>
 
-<iframe src="https://giphy.com/embed/noyBeNjH4nbtXV5ZLA" width="240" height="135" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HBOMax-hbomax-tomandjerry-tomandjerryonhbomax-noyBeNjH4nbtXV5ZLA">via GIPHY</a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanloclouis&label=Profile%20views&color=0e75b6&style=flat" alt="tanloclouis" /> </p>
-
-- 🌱 I’m currently learning **C, C++, Algorithm** <br>
-
-<iframe src="https://giphy.com/embed/13UZisxBxkjPwI" width="240" height="135" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cheezburger-coding-cheezburgernerds-13UZisxBxkjPwI">via GIPHY</a></p>
+- 🌱 I’m currently learning **C, C++, Algorithm**
 
 - 📫 How to reach me **ltloc05lumia520@gmail.com**
 
